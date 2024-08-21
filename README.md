@@ -24,7 +24,7 @@ For detailed information, check out the [Docs](https://ntscripts.gitbook.io/ntsc
 - Watch the showcase: [https://youtu.be/GlhKeCFUDLU](https://youtu.be/GlhKeCFUDLU)
 
 ## My other content
-- [NTScripts](ntscripts.tebex.io)
+- [NTScripts](https://ntscripts.tebex.io)
 
 ## Discord
 [https://discord.gg/Z3v8ptktbp](https://discord.gg/Z3v8ptktbp)
